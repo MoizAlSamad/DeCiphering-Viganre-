@@ -1,0 +1,1 @@
+I'm using windows 10 operating system.And My Encryption and Decryption code are base on your requirement.Firstly i convert your given encryption code which is base on Unix operating system and write Decryption code to Crack the Cipher text as well.
